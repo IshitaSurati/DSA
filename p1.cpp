@@ -1,4 +1,5 @@
 #include <iostream>
+#define Num2 20
 using namespace std;
 
 int main()
@@ -21,6 +22,10 @@ int main()
          << "char c=" << c << endl
          << "string d=" << d << endl
          << "double e=" << e << endl
-         << "boolean f=" << f;
+         << "boolean f=" << f<<endl;
+
+    const int Num1=25;
+    cout<<"const Num1 :"<<Num1<<endl;
+    cout<<"const Num2 :"<<Num2;
     return 0;
 }
