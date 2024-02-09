@@ -1,7 +1,7 @@
 #include <iostream>
 #define Num2 20
 using namespace std;
-
+//cin, cout object,variable,datatype,constant
 int main()
 {
 
