@@ -21,7 +21,7 @@ int main()
     cout << "Enter B : ";
     cin >> b;
 
-    cout << "--: Find max number between two numbers :--" << endl;
+    cout << "--: WAP to find maximum number frome given two number :--" << endl;
 
     cout << endl
          << "-------if statement-------" << endl;
