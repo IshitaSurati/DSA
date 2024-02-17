@@ -6,7 +6,7 @@ int main()
     int a, b, c;
     cout << endl
          << "-------ladder statement-------" << endl;
-    cout << "--: Program 1 : Find max number between three numbers :--" << endl;
+    cout << "--: Program 1 : WAP to find maximum number frome given three number :--" << endl;
     cout << endl
          << "Enter A : ";
     cin >> a;
